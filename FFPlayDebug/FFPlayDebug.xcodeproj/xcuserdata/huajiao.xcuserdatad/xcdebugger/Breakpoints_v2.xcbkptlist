@@ -330,13 +330,330 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../fftools/ffplay.c"
-            timestampString = "554982572.398149"
+            timestampString = "555324751.396181"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1364"
             endingLineNumber = "1364"
             landmarkName = "get_clock"
             landmarkType = "9">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.123365"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "1694">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.12552"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "2439">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.127474"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "2603">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.129243"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "2763">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.131381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "3751">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.1338609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "3916">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.136278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "4573">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.138438"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "4725">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.140331"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "6236">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.142518"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "6352">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.144377"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "6486">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.146722"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "6664">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.149017"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "6910">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "video_thread"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.1508501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdl_audio_callback"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.153237"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "1363">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdl_audio_callback"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.156085"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "1507">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdl_audio_callback"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.158237"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "2985">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sdl_audio_callback"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.160246"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "3126">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "stream_toggle_pause"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.162131"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "stream_toggle_pause"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.163993"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "382">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "seek_chapter"
+                  moduleName = "ffplay_g"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/huajiao/Documents/WorkSpace/FFmpeg_fork/FFmpeg-1/fftools/ffplay.c"
+                  timestampString = "555324752.165956"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1364"
+                  endingLineNumber = "1364"
+                  offsetFromSymbolStart = "191">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -346,7 +663,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../fftools/ffplay.c"
-            timestampString = "554982572.398541"
+            timestampString = "555324751.3964"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "3650"

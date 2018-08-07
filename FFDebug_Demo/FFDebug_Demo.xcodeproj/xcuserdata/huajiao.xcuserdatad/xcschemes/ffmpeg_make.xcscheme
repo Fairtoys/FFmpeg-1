@@ -57,8 +57,16 @@
       </MacroExpansion>
       <CommandLineArguments>
          <CommandLineArgument
+            argument = "http://jd01-flv.live.huajiao.com/live_huajiao_v2/_LC_JD1_non_16823621815332629981711712_OX.flv"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
             argument = "/Users/huajiao/Downloads/222_hd_new_uikit_support_for_international_user_interfaces.mp4"
             isEnabled = "YES">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "-an"
+            isEnabled = "NO">
          </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>
